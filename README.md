@@ -2,6 +2,7 @@
 Text2Image is a new way to classify text. It aims to convert corpus of texts and represent them as Images. Here is a brief explanation of the work. Please refer to ```Text2Image.pdf``` for a more in-depth documentation. The code is a .ipynb in the form .html. It can found as ```Code.html```
 
 <hr>
+
 ## How does it work?
 
 Considering the time taken to train NLP models and the amount of data required, an alternative is proposed to visualize texts in the form of images, specifically heatmaps. With reduced training time and the amount of data required, this could be a method to use in cases with very small amount of data/computing power. 
