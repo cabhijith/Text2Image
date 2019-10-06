@@ -1,5 +1,5 @@
 # Text2Image
-Text2Image is a new way to classify text. It aims to convert corpus of texts and represent them as Images. Here is a brief explanation of the work. Please refer to ```Text2Image.pdf``` for a more in-depth documentation. The code is a .ipynb in the form .html. It can found as ```Code.html```
+Text2Image is a new way to classify text. It aims to convert corpus of texts and represent them as Images. Here is a brief explanation of the work. Please refer to ```Text2Image.pdf``` for a more in-depth documentation. The code is a .ipynb in the form .html. It can found as ```Code.html```. The data used for this experiment can be found [here](https://github.com/cabhijith/Fake-News/blob/master/fake_or_real_news.csv.zip)
 
 <hr>
 
